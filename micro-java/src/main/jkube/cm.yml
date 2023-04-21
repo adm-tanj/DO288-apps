@@ -2,4 +2,4 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   name: configmap-hello
-data:
+  data: APP_MSG: this is a new value
